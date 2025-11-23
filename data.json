@@ -1,0 +1,121 @@
+[
+  {
+    "nome": "Bitcoin (BTC)",
+    "descricao": "A primeira e mais conhecida criptomoeda. Criada por Satoshi Nakamoto, é baseada na tecnologia blockchain e funciona como uma moeda digital descentralizada e peer-to-peer.",
+    "data_criacao": 2009,
+    "link": "https://bitcoin.org/pt/",
+    "tags": ["Moeda", "Blockchain", "Proof-of-Work", "Decentralizada", "P2P"]
+  },
+  {
+    "nome": "Ethereum (ETH)",
+    "descricao": "Uma plataforma de blockchain descentralizada que permite a criação de Contratos Inteligentes (Smart Contracts) e Aplicações Descentralizadas (DApps). É a base para a maioria dos tokens ERC-20.",
+    "data_criacao": 2015,
+    "link": "https://ethereum.org/pt/",
+    "tags": ["Smart Contracts", "DApps", "Proof-of-Stake", "Plataforma", "DeFi"]
+  },
+  {
+    "nome": "Tether (USDT)",
+    "descricao": "Uma Stablecoin, o que significa que seu valor é atrelado a uma moeda fiduciária (o Dólar Americano). É usada para transações rápidas e para manter o valor estável em um mercado volátil.",
+    "data_criacao": 2014,
+    "link": "https://tether.to/",
+    "tags": ["Stablecoin", "Dólar", "Estabilidade", "ERC-20", "Transação"]
+  },
+  {
+    "nome": "Solana (SOL)",
+    "descricao": "Uma blockchain de alto desempenho conhecida por sua velocidade e baixas taxas de transação. Utiliza o mecanismo de Proof-of-History (PoH) para alcançar escalabilidade superior.",
+    "data_criacao": 2020,
+    "link": "https://solana.com/",
+    "tags": ["Escalabilidade", "Alta Velocidade", "Web3", "DApps", "PoH"]
+  },
+  {
+    "nome": "Cardano (ADA)",
+    "descricao": "Uma plataforma de blockchain Proof-of-Stake com foco em segurança, escalabilidade e design baseado em pesquisas científicas e revisões por pares. Conhecida pela sua arquitetura em camadas.",
+    "data_criacao": 2017,
+    "link": "https://cardano.org/",
+    "tags": ["PoS", "Pesquisa", "Segurança", "Escalabilidade", "Contratos Inteligentes"]
+  },
+  {
+    "nome": "Dogecoin (DOGE)",
+    "descricao": "Criptomoeda criada inicialmente como uma piada (meme coin), mas que ganhou uma grande comunidade e popularidade, em parte devido ao apoio de figuras como Elon Musk.",
+    "data_criacao": 2013,
+    "link": "https://dogecoin.com/",
+    "tags": ["Meme Coin", "Comunidade", "Moeda", "Mining", "Popularidade"]
+  },
+  {
+    "nome": "Chainlink (LINK)",
+    "descricao": "Uma rede descentralizada de 'oráculos' que conecta contratos inteligentes em blockchains com dados do mundo real (como preços de ações, resultados esportivos, etc.).",
+    "data_criacao": 2017,
+    "link": "https://chain.link/",
+    "tags": ["Oráculos", "Smart Contracts", "Dados", "DeFi", "Conexão"]
+  },
+  {
+    "nome": "Binance Coin (BNB)",
+    "descricao": "Originalmente um token ERC-20, migrou para a Binance Smart Chain (agora BNB Chain) e é a moeda nativa para taxas de transação e participação no ecossistema Binance.",
+    "data_criacao": 2017,
+    "link": "https://www.bnbchain.org/",
+    "tags": ["Exchange", "Taxas", "Smart Chain", "Token", "Ecossistema"]
+  },
+  {
+    "nome": "XRP (Ripple)",
+    "descricao": "Um sistema de liquidez e pagamentos em tempo real construído para instituições financeiras. Foca em pagamentos transfronteiriços rápidos e de baixo custo.",
+    "data_criacao": 2012,
+    "link": "https://ripple.com/xrp/",
+    "tags": ["Pagamentos", "Institucional", "Baixo Custo", "Transação", "Liquidez"]
+  },
+  {
+    "nome": "Polkadot (DOT)",
+    "descricao": "Um protocolo multichain que permite que diferentes blockchains (parachains) se comuniquem e transfiram dados e ativos, visando a interoperabilidade do ecossistema Web3.",
+    "data_criacao": 2020,
+    "link": "https://polkadot.network/",
+    "tags": ["Interoperabilidade", "Multichain", "Parachains", "Web3", "Segurança Compartilhada"]
+  },
+  {
+    "nome": "Polygon (MATIC)",
+    "descricao": "Uma solução de escalabilidade de Camada 2 para o Ethereum que visa aumentar a velocidade das transações e reduzir custos, utilizando uma rede de blockchains paralelos.",
+    "data_criacao": 2017,
+    "link": "https://polygon.technology/",
+    "tags": ["Escalabilidade", "Layer 2", "Ethereum", "DApps", "Baixo Custo"]
+  },
+  {
+    "nome": "Avalanche (AVAX)",
+    "descricao": "Uma plataforma de smart contracts conhecida por seu alto throughput e baixa latência. Utiliza três blockchains (X, C e P-Chains) para otimizar diferentes funções.",
+    "data_criacao": 2020,
+    "link": "https://www.avax.network/",
+    "tags": ["Smart Contracts", "Alta Velocidade", "Latência Baixa", "Subnets", "Plataforma"]
+  },
+  {
+    "nome": "Shiba Inu (SHIB)",
+    "descricao": "Uma 'memecoin' descentralizada que cresceu em popularidade devido à sua comunidade vibrante. É construída na rede Ethereum e visa ser a 'Dogecoin killer'.",
+    "data_criacao": 2020,
+    "link": "https://shibatoken.com/",
+    "tags": ["Meme Coin", "Comunidade", "Ethereum", "ERC-20", "Volatilidade"]
+  },
+  {
+    "nome": "Litecoin (LTC)",
+    "descricao": "Criada como um 'primo prateado' do Bitcoin (o ouro digital), o Litecoin foca em fornecer transações mais rápidas e com taxas mais baixas, sendo ideal para pagamentos diários.",
+    "data_criacao": 2011,
+    "link": "https://litecoin.com/",
+    "tags": ["Moeda", "Pagamento", "Fork do Bitcoin", "Scrypt", "Velocidade"]
+  },
+  {
+    "nome": "Monero (XMR)",
+    "descricao": "Líder em criptomoedas focadas em privacidade. Utiliza tecnologias como Ring Signatures e endereços furtivos para tornar as transações anônimas e irrastreáveis.",
+    "data_criacao": 2014,
+    "link": "https://www.getmonero.org/",
+    "tags": ["Privacidade", "Anônima", "Segurança", "Moeda", "Ring Signatures"]
+  },
+  {
+    "nome": "Uniswap (UNI)",
+    "descricao": "O token de governança da Uniswap, que é o maior protocolo de exchange descentralizada (DEX) baseado em Ethereum, permitindo a troca de tokens sem intermediários.",
+    "data_criacao": 2020,
+    "link": "https://uniswap.org/",
+    "tags": ["DeFi", "DEX", "Governanca", "Ethereum", "Troca de Tokens"]
+  },
+  {
+    "nome": "Cosmos (ATOM)",
+    "descricao": "Apelidado de 'Internet das Blockchains', o Cosmos é um ecossistema projetado para tornar as redes blockchain interoperáveis, permitindo que elas se comuniquem através do Protocolo IBC.",
+    "data_criacao": 2017,
+    "link": "https://cosmos.network/",
+    "tags": ["Interoperabilidade", "Ecossistema", "IBC", "PoS", "Plataforma"]
+  }
+]
